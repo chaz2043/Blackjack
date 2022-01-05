@@ -1,0 +1,7 @@
+Hello, my name is Charlie Sharpe and this is my Blackjack game that I made using python and pygame. I taught myself how to use
+pygame at the end of this past summer and used that knowledge to make this Blackjack game. It took a lot of trial and error, learning,
+frustration, late nights, and mental energy to finish this game and make it presentable. I started with the logic of Blackjack which
+took me a good amount of time. Hard hands and soft hands with aces in Blackjack are a challenge I had to overcome. Making it into a game that
+you can actually play was a whole other challenge as I had to learn about pygame starting at zero knowledge. This led to me learning
+much about graphics, directories, objects in programming, and more all on my own. I am proud of the work I have put into this game
+over the past few months and hope you enjoy my final product. Thanks!
